@@ -21,16 +21,11 @@ fun App() {
         ) {
             composable("onboardingScreen") {
                 OnboardingScreen(navController)
+
             }
             composable("homeScreen") {
                 HomeScreen(navController)
             }
         }
     }
-}
-
-@Composable
-@Preview
-fun appPreview(){
-    App()
 }

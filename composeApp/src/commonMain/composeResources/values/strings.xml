@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="fall_in_love_text">Fall in Love with Coffee in Blissful Delight!</string>
+    <string name="Welcome_to_our_cozy_coffee_text">Welcome to our cozy coffee corner, where every cup is a delightful for you.</string>
+    <string name="get_started">Get Started</string>
+    <string name="location">Location</string>
+    <string name="location_text">Bilzen, Tanjungbalai</string>
+</resources>
