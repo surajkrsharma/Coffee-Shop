@@ -1,5 +1,6 @@
 package org.example.project.presentation.homeScreen
 
+import androidx.compose.desktop.ui.tooling.preview.Preview
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -43,7 +44,7 @@ import coffeeshop.composeapp.generated.resources.sora_semi_bold
 import org.jetbrains.compose.resources.Font
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.resources.stringResource
-import org.jetbrains.compose.ui.tooling.preview.Preview
+
 
 @Composable
 @Preview
@@ -175,16 +176,4 @@ fun HomeScreen(navController: NavController) {
             )
         }
     }
-}
-
-@Composable
-@Preview
-fun new() {
-    Text("sdjfksd")
-}
-
-@Composable
-@Preview
-fun preview() {
-    new()
 }
