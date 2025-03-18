@@ -78,6 +78,7 @@ fun HomeScreen() {
         "Americano",
         "Mocha",
         "Macchiato",
+        "Macchiato",
         "Flat White",
         "Cold Brew"
     )
